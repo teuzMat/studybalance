@@ -39,7 +39,7 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/studybalance.git
+   git clone https://github.com/teuzmat/studybalance.git
    ```
 
 2. **Acesse a pasta do projeto:**
